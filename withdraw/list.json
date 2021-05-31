@@ -1,0 +1,10 @@
+{
+  "errCode": 0,
+  "errMsg": null,
+  "data": {
+    "result": "탈퇴 요청성공"
+  },
+  "debug": {
+    "view_time": "0:00:00.034179"
+  }
+}

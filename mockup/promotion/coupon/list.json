@@ -1,0 +1,41 @@
+{
+  "errCode": 0,
+  "errMsg": null,
+  "data": {
+    "total": 2,
+    "result": [{
+        "id": 2,
+        "image": "/jcar/data/up/img/2021/106/1lXMx6-99EeMOtQJir.png",
+        "description": "dfadfafdafd",
+        "name": "adfdfdsf",
+        "benefit_kind": 12,
+        "benefit_amount": 0.0,
+        "quantity": 1000,
+        "status": "종료",
+        "use_begin_date": "2021-Apr-14",
+        "use_end_date": "2021-Apr-21",
+        "issue_begin_date": "2021-Apr-22",
+        "issue_end_date": "2021-Apr-20",
+        "used": 0
+      },
+      {
+        "id": 1,
+        "image": "/jcar/data/up/img/2021/106/1lXMwb-KdkbUBVvkFY.png",
+        "description": "dddd",
+        "name": "ddd",
+        "benefit_kind": 11,
+        "benefit_amount": 111.0,
+        "quantity": 100,
+        "status": "적용",
+        "use_begin_date": "2021-Apr-22",
+        "use_end_date": "2021-Apr-29",
+        "issue_begin_date": "2021-Apr-12",
+        "issue_end_date": "2021-Apr-17",
+        "used": 0
+      }
+    ]
+  },
+  "debug": {
+    "view_time": "0:00:00.014310"
+  }
+}

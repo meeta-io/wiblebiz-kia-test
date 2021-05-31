@@ -1,0 +1,264 @@
+{
+  "errCode": 0,
+  "errMsg": null,
+  "data": [
+      {
+          "totalpage": 2,
+          "status": {
+              "None": 0,
+              "예약": 1000,
+              "운행시작지연": 9000,
+              "운행중": 10000,
+              "운행완료지연": 19000,
+              "운행완료": 20000,
+              "자동완료": 20100,
+              "강제종료": 21000,
+              "미사용완료": 24000,
+              "예약취소": 25000,
+              "강제취소": 26000,
+              "예약오류": 30000
+          },
+          "model": [
+              "니로EV",
+              "니로EV",
+              "니로EV",
+              "니로EV",
+              "니로EV",
+              "니로EV",
+              "니로EV",
+              "니로EV",
+              "니로EV",
+              "니로EV",
+              "니로EV",
+              "니로EV",
+              "니로EV",
+              "니로EV"
+          ],
+          "fuel_type": [
+              "전기",
+              "전기",
+              "전기",
+              "전기",
+              "전기",
+              "전기",
+              "전기",
+              "전기",
+              "전기",
+              "전기",
+              "전기",
+              "전기",
+              "전기",
+              "전기"
+          ],
+          "spot": [
+              "서울시청",
+              "서울시청",
+              "서울시청",
+              "서울시청",
+              "서울시청",
+              "서울시청",
+              "서울시청",
+              "서울시청",
+              "서울시청",
+              "서울시청",
+              "서울시청",
+              "서울시청",
+              "서울시청",
+              "서울시청"
+          ]
+      },
+      {
+          "id": 92,
+          "pickup_time_date": "2021.04.28",
+          "pickup_time_time": "18:30~08:30 (1시간 :0분)",
+          "car": {
+              "id": 1,
+              "number": "42호6127",
+              "model": "니로EV"
+          },
+          "spot": "서울시청",
+          "user": {
+              "id": 19,
+              "userid": "kwanghoon.cha@cien.co.kr",
+              "first_name": "차광훈"
+          },
+          "company": "기아",
+          "subscribe_type": 3,
+          "status": "예약"
+      },
+      {
+          "id": 91,
+          "pickup_time_date": "2021.04.27",
+          "pickup_time_time": "18:30~08:30 (1시간 :0분)",
+          "car": {
+              "id": 1,
+              "number": "42호6127",
+              "model": "니로EV"
+          },
+          "spot": "서울시청",
+          "user": {
+              "id": 19,
+              "userid": "kwanghoon.cha@cien.co.kr",
+              "first_name": "차광훈"
+          },
+          "company": "기아",
+          "subscribe_type": 3,
+          "status": "예약취소"
+      },
+      {
+          "id": 87,
+          "pickup_time_date": "2021.04.26",
+          "pickup_time_time": "18:30~08:30 (1시간 :0분)",
+          "car": {
+              "id": 2,
+              "number": "42호6130",
+              "model": "니로EV"
+          },
+          "spot": "서울시청",
+          "user": {
+              "id": 15,
+              "userid": "hwankyu.lee@cien.co.kr",
+              "first_name": "이환규"
+          },
+          "company": "기아",
+          "subscribe_type": 3,
+          "status": "운행완료"
+      },
+      {
+          "id": 85,
+          "pickup_time_date": "2021.04.26",
+          "pickup_time_time": "18:30~08:30 (1시간 :0분)",
+          "car": {
+              "id": 1,
+              "number": "42호6127",
+              "model": "니로EV"
+          },
+          "spot": "서울시청",
+          "user": {
+              "id": 19,
+              "userid": "kwanghoon.cha@cien.co.kr",
+              "first_name": "차광훈"
+          },
+          "company": "기아",
+          "subscribe_type": 3,
+          "status": "예약취소"
+      },
+      {
+          "id": 90,
+          "pickup_time_date": "2021.04.26",
+          "pickup_time_time": "12:00~13:00 (1시간 0분)",
+          "car": {
+              "id": 2,
+              "number": "42호6130",
+              "model": "니로EV"
+          },
+          "spot": "서울시청",
+          "user": {
+              "id": 24,
+              "userid": "diring@jecar.co.kr",
+              "first_name": "김현"
+          },
+          "company": "",
+          "subscribe_type": null,
+          "status": "운행완료"
+      },
+      {
+          "id": 86,
+          "pickup_time_date": "2021.04.26",
+          "pickup_time_time": "09:00~15:30 (6시간 30분)",
+          "car": {
+              "id": 1,
+              "number": "42호6127",
+              "model": "니로EV"
+          },
+          "spot": "서울시청",
+          "user": {
+              "id": 15,
+              "userid": "hwankyu.lee@cien.co.kr",
+              "first_name": "이환규"
+          },
+          "company": "기아",
+          "subscribe_type": 1,
+          "status": "운행완료"
+      },
+      {
+          "id": 13,
+          "pickup_time_date": "2021.04.23",
+          "pickup_time_time": "14:20~15:20 (1시간 0분)",
+          "car": {
+              "id": 1,
+              "number": "42호6127",
+              "model": "니로EV"
+          },
+          "spot": "서울시청",
+          "user": {
+              "id": 19,
+              "userid": "kwanghoon.cha@cien.co.kr",
+              "first_name": "차광훈"
+          },
+          "company": "기아",
+          "subscribe_type": null,
+          "status": "예약취소"
+      },
+      {
+          "id": 12,
+          "pickup_time_date": "2021.04.23",
+          "pickup_time_time": "12:20~13:20 (1시간 0분)",
+          "car": {
+              "id": 1,
+              "number": "42호6127",
+              "model": "니로EV"
+          },
+          "spot": "서울시청",
+          "user": {
+              "id": 19,
+              "userid": "kwanghoon.cha@cien.co.kr",
+              "first_name": "차광훈"
+          },
+          "company": "기아",
+          "subscribe_type": null,
+          "status": "예약취소"
+      },
+      {
+          "id": 20,
+          "pickup_time_date": "2021.04.23",
+          "pickup_time_time": "11:50~17:50 (6시간 0분)",
+          "car": {
+              "id": 1,
+              "number": "42호6127",
+              "model": "니로EV"
+          },
+          "spot": "서울시청",
+          "user": {
+              "id": 19,
+              "userid": "kwanghoon.cha@cien.co.kr",
+              "first_name": "차광훈"
+          },
+          "company": "기아",
+          "subscribe_type": null,
+          "status": "강제취소"
+      },
+      {
+          "id": 81,
+          "pickup_time_date": "2021.04.23",
+          "pickup_time_time": "09:00~16:00 (7시간 0분)",
+          "car": {
+              "id": 1,
+              "number": "42호6127",
+              "model": "니로EV"
+          },
+          "spot": "서울시청",
+          "user": {
+              "id": 15,
+              "userid": "hwankyu.lee@cien.co.kr",
+              "first_name": "이환규"
+          },
+          "company": "기아",
+          "subscribe_type": 1,
+          "status": "운행완료"
+      }
+  ],
+  "debug": {
+      "view_time": "0:00:00.040238"
+  }
+}

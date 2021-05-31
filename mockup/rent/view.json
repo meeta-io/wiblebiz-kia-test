@@ -1,0 +1,37 @@
+{
+  "errCode": 0,
+  "errMsg": null,
+  "data": [
+      {
+          "id": 19,
+          "status": "예약취소",
+          "created_time": "2021.04.22 / 16:41",
+          "rent_time": "2021.04.22 /16:50 ~ 2021.04.22 /18:00 (1시간 10분)",
+          "rent_real_time": null,
+          "rent_cancel_time": null,
+          "user": {
+              "first_name": "차광훈",
+              "id": 19,
+              "userid": "kwanghoon.cha@cien.co.kr",
+              "affiliation": null,
+              "mobile_phone": "01023725957"
+          },
+          "company": "기아",
+          "subscribe_type": null,
+          "car": {
+              "number": "42호6127",
+              "model": "니로EV"
+          },
+          "spot": "서울시청",
+          "business": "테스트",
+          "destination": "서울",
+          "distance": 0.0,
+          "driving_fee": 0.0,
+          "hipass_fee": null,
+          "extradriver": []
+      }
+  ],
+  "debug": {
+      "view_time": "0:00:00.021354"
+  }
+}

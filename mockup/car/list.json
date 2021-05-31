@@ -1,0 +1,71 @@
+{
+  "errCode": 0,
+  "errMsg": null,
+  "data": [
+      {
+          "totalpage": 1,
+          "status": {
+              "대기": 0,
+              "운행": 1,
+              "지연": 2
+          },
+          "model": [
+              "니로EV"
+          ],
+          "fuel_type": [
+              "전기"
+          ]
+      },
+      {
+          "car": {
+              "id": 4,
+              "number": "43호6002",
+              "model": "니로EV",
+              "purpose": 0,
+              "fuel_type": "전기",
+              "fuel": null
+          },
+          "spot": "없음",
+          "status": "대기"
+      },
+      {
+          "car": {
+              "id": 3,
+              "number": "43호6001",
+              "model": "니로EV",
+              "purpose": 0,
+              "fuel_type": "전기",
+              "fuel": null
+          },
+          "spot": "없음",
+          "status": "대기"
+      },
+      {
+          "car": {
+              "id": 2,
+              "number": "42호6130",
+              "model": "니로EV",
+              "purpose": 0,
+              "fuel_type": "전기",
+              "fuel": null
+          },
+          "spot": "서울시청",
+          "status": "대기"
+      },
+      {
+          "car": {
+              "id": 1,
+              "number": "42호6127",
+              "model": "니로EV",
+              "purpose": 0,
+              "fuel_type": "전기",
+              "fuel": null
+          },
+          "spot": "서울시청",
+          "status": "대기"
+      }
+  ],
+  "debug": {
+      "view_time": "0:00:00.037505"
+  }
+}

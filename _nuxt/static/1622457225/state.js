@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fwiblebiz-kia-test\u002F_nuxt\u002Fstatic\u002F1622457225",layout:"empty",error:null,state:{auth:{isLoggedIn:false},history:{mainMenu:a,subMenu:a}},serverRendered:true,routePath:"\u002F",config:{}}}(void 0));

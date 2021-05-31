@@ -1,0 +1,118 @@
+{
+  "errCode": 0,
+  "errMsg": null,
+  "data": {
+    "cms": true,
+    "category": [
+      "게시글",
+      "팝업공지"
+    ],
+    "total": 38,
+    "page": 1,
+    "limit": 10,
+    "result": [{
+        "number": 0,
+        "id": 2,
+        "category": "general",
+        "title": "Test Title",
+        "start_time": 1618476661,
+        "end_time": 1619476661,
+        "is_open": false,
+        "is_hide": true
+      },
+      {
+        "number": 1,
+        "id": 3,
+        "category": "general",
+        "title": "Test Title",
+        "start_time": 1618476661,
+        "end_time": 1619476661,
+        "is_open": false,
+        "is_hide": true
+      },
+      {
+        "number": 2,
+        "id": 5,
+        "category": "general",
+        "title": "Test Title1",
+        "start_time": 1618476661,
+        "end_time": 1619476661,
+        "is_open": false,
+        "is_hide": true
+      },
+      {
+        "number": 3,
+        "id": 6,
+        "category": "general",
+        "title": "Test Title1",
+        "start_time": 1618476661,
+        "end_time": 1619476661,
+        "is_open": false,
+        "is_hide": true
+      },
+      {
+        "number": 4,
+        "id": 4,
+        "category": "general",
+        "title": "Edit Test Title",
+        "start_time": 1618476661,
+        "end_time": 1619476661,
+        "is_open": false,
+        "is_hide": true
+      },
+      {
+        "number": 5,
+        "id": 15,
+        "category": "popup",
+        "title": "Test Title1",
+        "start_time": 1618476661,
+        "end_time": 1619476661,
+        "is_open": false,
+        "is_hide": true
+      },
+      {
+        "number": 6,
+        "id": 7,
+        "category": "general",
+        "title": "Test Title1",
+        "start_time": 1618476661,
+        "end_time": 1619476661,
+        "is_open": false,
+        "is_hide": true
+      },
+      {
+        "number": 7,
+        "id": 8,
+        "category": "general",
+        "title": "Test Title1",
+        "start_time": 1618476661,
+        "end_time": 1619476661,
+        "is_open": false,
+        "is_hide": true
+      },
+      {
+        "number": 8,
+        "id": 9,
+        "category": "general",
+        "title": "Test Title1",
+        "start_time": 1618476661,
+        "end_time": 1619476661,
+        "is_open": false,
+        "is_hide": true
+      },
+      {
+        "number": 9,
+        "id": 10,
+        "category": "general",
+        "title": "Test Title1",
+        "start_time": 1618476661,
+        "end_time": 1619476661,
+        "is_open": false,
+        "is_hide": true
+      }
+    ]
+  },
+  "debug": {
+    "view_time": "0:00:00.027817"
+  }
+}

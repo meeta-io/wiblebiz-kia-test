@@ -1,0 +1,84 @@
+{
+  "errCode": 0,
+  "errMsg": null,
+  "data": {
+      "car": {
+          "id": 1,
+          "number": "42호6127",
+          "model": "니로EV",
+          "fuel_type": "전기",
+          "color": null,
+          "carstatus": "대기"
+      },
+      "spot": "서울시청",
+      "rent": [
+          {
+              "id": 85,
+              "pickup_time_date": "2021.04.26",
+              "pickup_time_time": "18:30~08:30 (14시간 0분)",
+              "first_name": "차광훈",
+              "org_department": null,
+              "status": "예약"
+          },
+          {
+              "id": 13,
+              "pickup_time_date": "2021.04.23",
+              "pickup_time_time": "14:20~15:20 (1시간 0분)",
+              "first_name": "차광훈",
+              "org_department": null,
+              "status": "예약취소"
+          },
+          {
+              "id": 12,
+              "pickup_time_date": "2021.04.23",
+              "pickup_time_time": "12:20~13:20 (1시간 0분)",
+              "first_name": "차광훈",
+              "org_department": null,
+              "status": "예약취소"
+          },
+          {
+              "id": 20,
+              "pickup_time_date": "2021.04.23",
+              "pickup_time_time": "11:50~17:50 (6시간 0분)",
+              "first_name": "차광훈",
+              "org_department": null,
+              "status": "강제취소"
+          },
+          {
+              "id": 81,
+              "pickup_time_date": "2021.04.23",
+              "pickup_time_time": "09:00~16:00 (7시간 0분)",
+              "first_name": "이환규",
+              "org_department": null,
+              "status": "운행완료"
+          },
+          {
+              "id": 19,
+              "pickup_time_date": "2021.04.22",
+              "pickup_time_time": "16:50~18:00 (1시간 12분)",
+              "first_name": "차광훈",
+              "org_department": null,
+              "status": "예약취소"
+          },
+          {
+              "id": 84,
+              "pickup_time_date": "2021.04.21",
+              "pickup_time_time": "18:30~08:30 (14시간 0분)",
+              "first_name": "이환규",
+              "org_department": null,
+              "status": "운행완료"
+          },
+          {
+              "id": 26,
+              "pickup_time_date": "2021.04.21",
+              "pickup_time_time": "09:00~08:30 (23시간 30분)",
+              "first_name": "이환규",
+              "org_department": null,
+              "status": "강제취소"
+          }
+      ]
+  },
+  "debug": {
+      "view_time": "0:00:00.029307"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "errCode": 0,
+  "errMsg": null,
+  "data": {
+    "id": 4,
+    "category": "게시글",
+    "writer": 1,
+    "title": "Edit Test Title",
+    "content": "Test Content",
+    "start_time": 1618476661,
+    "end_time": 1619476661,
+    "is_open": false,
+    "base_post": 4,
+    "reply_of": null,
+    "is_hide": true
+  },
+  "debug": {
+    "view_time": "0:00:00.048941"
+  }
+}

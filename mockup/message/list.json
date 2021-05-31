@@ -1,0 +1,15 @@
+{
+  "errCode": 0,
+  "errMsg": null,
+  "data": {
+    "total": 1,
+    "page": 1,
+    "limit": 10,
+    "result": [{
+      "id": 1
+    }]
+  },
+  "debug": {
+    "view_time": "0:00:00.027817"
+  }
+}

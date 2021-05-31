@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/car/list", (function(a){a.title="차량 조회";a.name="car-list";return {data:[{}],fetch:[],mutations:[["history\u002FsetMenu",{mainMenu:{title:"차량 관리",icon:"\u002Fwiblebiz-kia-test\u002F_nuxt\u002Fimg\u002Fic-car.6b7446c.svg",iconStyle:"height: 14px;",subMenu:[a],visible:true},subMenu:a}]]}}({})));

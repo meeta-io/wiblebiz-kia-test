@@ -1,0 +1,29 @@
+{
+  "errCode": 0,
+  "errMsg": null,
+  "data": {
+    "id": 2,
+    "code": "KT9V",
+    "name": "기아2-test",
+    "domain": "kia.com",
+    "cnum": "1234567890",
+    "represen": "홍길동",
+    "rcontact1": "031",
+    "rcontact2": "1234",
+    "rcontact3": "5678",
+    "mdepart": "비지니스지원팀",
+    "manager": "김기아",
+    "mcontact1": "5679",
+    "mcontact2": "1235",
+    "mcontact3": "5679",
+    "addr_1": "화성시 영천동 193-2",
+    "addr_2": "엠타워",
+    "addr_3": "A동 2103",
+    "nmember": 2,
+    "created": 1619545872,
+    "updated": 1619545872
+  },
+  "debug": {
+    "view_time": "0:00:00.019027"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "errCode": 0,
+  "errMsg": null,
+  "data": {
+    "id": "api_test2@gmail.com",
+    "org": "API테스트기관명2",
+    "department": "API테스트부서명2",
+    "password": "SBACLWKQ"
+  },
+  "debug": {
+    "view_time": "0:00:00.015270"
+  }
+}

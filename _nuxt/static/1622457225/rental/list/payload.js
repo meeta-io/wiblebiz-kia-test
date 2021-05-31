@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/rental/list", (function(a){a.title="대여 조회";a.name="rental-list";return {data:[{}],fetch:[],mutations:[["history\u002FsetMenu",{mainMenu:{title:"대여 관리",icon:"\u002Fwiblebiz-kia-test\u002F_nuxt\u002Fimg\u002Fic-rental.62992b4.svg",iconStyle:"height: 17px;",subMenu:[a,{title:"결제 내역 조회",name:"rental-payment"}],visible:true},subMenu:a}]]}}({})));
